@@ -13,6 +13,7 @@ public class MainActivity extends AppCompatActivity {
 
         textView = findViewById(R.id.textView);
 
-        textView.setText("훈식아 PPT 만들어");
+        textView.setText("훈식아 PPT 만들어 // 최소한 선택권은 주세요....!!!");
+
     }
 }
